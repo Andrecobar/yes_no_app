@@ -1,0 +1,4 @@
+#Wed Sep 27 13:31:42 CST 2023
+base.0=/home/andrewcob/Desktop/Proyects/ProyectoFlutter/yes_no_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
