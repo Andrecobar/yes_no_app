@@ -7,9 +7,9 @@ class ChatProvider extends ChangeNotifier {
   final getYesNoAnswer = GetYesNoAnswer();
 
   List<Message> messageList = [
-    Message(text: 'Hola bro!', fromWho: FromWho.me),
+    Message(text: 'Esta es la app YesNoApp!', fromWho: FromWho.me),
     Message(
-        text: 'Ya regresaste del palacio del rey espiritu?',
+        text: 'Escribe una pregunta que termine con ?. La app responderá con "sí" o "no" y mostrará un GIF relacionado. Solo funciona con preguntas que puedan responderse así.',
         fromWho: FromWho.me),
   ];
 
